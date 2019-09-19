@@ -6,6 +6,7 @@ UART interface developed in a Nucleo-L476RG Board, it is used to receive AT Comm
 
 Connection diagram:
 
+-----------------
 
 +---------------+       +---------------------------+       +-------------------
                 |       |                           |       |
@@ -21,6 +22,7 @@ Connection diagram:
                 |       |                           |       |
 +---------------+       +---------------------------+       +-------------------
 
+-----------------
 Communication parameters (USART 1,2 & 3):
 
 Baudrate: 115200
