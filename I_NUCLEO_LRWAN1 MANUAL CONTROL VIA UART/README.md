@@ -5,9 +5,9 @@ Description:
 UART interface developed in a Nucleo-L476RG Board, it is used to receive AT Commands from a Terminal (USART1/2) and transfer them to a I-NUCLEO-LRWAN1 Shield (USART3) to control it. 
 
 Connection diagram:
-------------------------------------------
 
-................        ............................         .......................
+
++---------------+       +---------------------------+       +-------------------
                 |       |                           |       |
                 |       |                           |       |
                 |       |                           |       |
@@ -19,8 +19,7 @@ Connection diagram:
                 |       |                           |       |
                 |       |                           |       |
                 |       |                           |       |
-----------------         ---------------------------         ---------------------  
--------------------------------------------
++---------------+       +---------------------------+       +-------------------
 
 Communication parameters (USART 1,2 & 3):
 
