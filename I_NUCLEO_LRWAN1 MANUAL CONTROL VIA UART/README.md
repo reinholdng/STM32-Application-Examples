@@ -55,6 +55,8 @@ WM-SG-SM-42 AT Command Reference Manual
 
 https://github.com/USIWP1Module/USI_I-NUCLEO-LRWAN1/blob/master/WM-SG-SM-42%20AT%20Command%20Reference%20Manual%20rev.2.3_20180701.pdf
 
+To Do:
+
 
 
 
